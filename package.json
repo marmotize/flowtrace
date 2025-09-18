@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "private": true,
+  "name": "flowtrace",
+  "private": false,
   "type": "module",
   "scripts": {
     "build": "react-router build",
